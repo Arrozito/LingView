@@ -1,0 +1,5377 @@
+{
+  "metadata": {
+    "timed": false,
+    "story ID": "46c6386a-213a-463a-8d64-2df71cf7a046",
+    "title": {
+      "_default": "movie 20_Source_StandardAudio.wav.annotations"
+    },
+    "media": {
+      "audio": "",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "8/8/2020",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [],
+    "xml_file_name": "movie 20_Source_StandardAudio.wav.annotations.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "Transcription": {
+        "name": "Transcription",
+        "subdivided": false
+      },
+      "Phrase Free Translation": {
+        "name": "Phrase Free Translation",
+        "subdivided": false
+      },
+      "hands": {
+        "name": "hands",
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "language": "qvz",
+        "tier": "Transcription"
+      },
+      "S2": {
+        "language": "qvz",
+        "tier": "hands"
+      }
+    }
+  },
+  "sentences": [
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 13253,
+      "end_time_ms": 16514,
+      "num_slots": 1,
+      "text": "ñuka yuyashkagunta shinaspas kwintasha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 16910,
+      "end_time_ms": 17847,
+      "num_slots": 1,
+      "text": "sacha runata",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "the forest people"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 18794,
+      "end_time_ms": 19741,
+      "num_slots": 1,
+      "text": "aha aha",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "okay okay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 21125,
+      "end_time_ms": 21658,
+      "num_slots": 1,
+      "text": "ña",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "so"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 22041,
+      "end_time_ms": 24698,
+      "num_slots": 1,
+      "text": "ñuka yayawan ñuka puringawa rig arani",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "with my father I was going"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 25284,
+      "end_time_ms": 28966,
+      "num_slots": 1,
+      "text": "ñuka yayata kari wawas illak akpi katisha rig arani ñuka",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father was without male children so I was going"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 29765,
+      "end_time_ms": 32931,
+      "num_slots": 1,
+      "text": "chi kushillugunata tuparan ñuka yaya tupasha",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then my father came across some kushillu mokneys"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 32931,
+      "end_time_ms": 36625,
+      "num_slots": 1,
+      "text": "pukunawan ñuka yaya shitan mara y chi timpu illapag illan",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father shot at them with his blowgun, at that time he didn't have any guns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "hands",
+      "start_time_ms": 35059,
+      "end_time_ms": 36096,
+      "num_slots": 1,
+      "text": "twirl",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 36927,
+      "end_time_ms": 37691,
+      "num_slots": 1,
+      "text": "shitasha",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "shooting"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 38192,
+      "end_time_ms": 38562,
+      "num_slots": 1,
+      "text": "chi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 38918,
+      "end_time_ms": 39288,
+      "num_slots": 1,
+      "text": "pay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "he"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 39561,
+      "end_time_ms": 40123,
+      "num_slots": 1,
+      "text": "taras",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "crunch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 41087,
+      "end_time_ms": 41710,
+      "num_slots": 1,
+      "text": "taras",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "crunch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 42391,
+      "end_time_ms": 43038,
+      "num_slots": 1,
+      "text": "taras",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "crunch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 43315,
+      "end_time_ms": 44737,
+      "num_slots": 1,
+      "text": "runas illashka sachay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "and there were no people in the forest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "hands",
+      "start_time_ms": 43631,
+      "end_time_ms": 44695,
+      "num_slots": 1,
+      "text": "twirl",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 45840,
+      "end_time_ms": 47225,
+      "num_slots": 1,
+      "text": "ñukata niwara yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father said to me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 47698,
+      "end_time_ms": 49857,
+      "num_slots": 1,
+      "text": "\"kushillu ismata wira ismata\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"kushillu scat, thick scat\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 49989,
+      "end_time_ms": 53322,
+      "num_slots": 1,
+      "text": "mikusha purig man pumaga rikusha shayandi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "there's a carnivore here, like a puma, looking standing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 53689,
+      "end_time_ms": 56725,
+      "num_slots": 1,
+      "text": "\"mikuy tukunchima\" niwara ñuka yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"they became food\" my father said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 57424,
+      "end_time_ms": 60108,
+      "num_slots": 1,
+      "text": "chiga nikpi ñuka \"ari\" nirani yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then after he said that I said \"okay\" to my father"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 60529,
+      "end_time_ms": 64276,
+      "num_slots": 1,
+      "text": "rikusha shayawrani ima- imashi shamun nisha rikuran",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "I stood there looking, \"something- something is coming\" he said, looking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 65264,
+      "end_time_ms": 65971,
+      "num_slots": 1,
+      "text": "rikukpi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "looking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 66332,
+      "end_time_ms": 70293,
+      "num_slots": 1,
+      "text": "pay silbara huhihuhihuhihuhihuhihuhihuhihuhihuhi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "something whistled huhihuhihuhihuhihuhihuhihuhihuhihuhi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 70541,
+      "end_time_ms": 71833,
+      "num_slots": 1,
+      "text": "samayba pitiri",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 71992,
+      "end_time_ms": 72865,
+      "num_slots": 1,
+      "text": "mana pitiri",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 73257,
+      "end_time_ms": 74037,
+      "num_slots": 1,
+      "text": "silbara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it whistled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 74519,
+      "end_time_ms": 76399,
+      "num_slots": 1,
+      "text": "\"yaya pitas silban\" nirani",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"father who is whilsting?\" I said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 76558,
+      "end_time_ms": 78777,
+      "num_slots": 1,
+      "text": "\"ah ow ñukas uyani mushushi\" niwara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"yes daugther I hear it too\" he said to me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 79201,
+      "end_time_ms": 80072,
+      "num_slots": 1,
+      "text": "chita man ya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 80386,
+      "end_time_ms": 82219,
+      "num_slots": 1,
+      "text": "mashti imata (?) kay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 82622,
+      "end_time_ms": 85349,
+      "num_slots": 1,
+      "text": "(?) sacha runaga (?) (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 85970,
+      "end_time_ms": 87187,
+      "num_slots": 1,
+      "text": "rikusha shayangi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "stand and look"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 87546,
+      "end_time_ms": 88990,
+      "num_slots": 1,
+      "text": "ñukanchita chari payga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 89196,
+      "end_time_ms": 92712,
+      "num_slots": 1,
+      "text": "\"kanda chari apanata munawn\" niwara \"amasanga man\"  ",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"maybe they want to take you\" he said to me \"it's a amasanga\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 93438,
+      "end_time_ms": 96397,
+      "num_slots": 1,
+      "text": "\"ushushi\" niwara \"aycha purik amasanga\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"daugther\" he said to me \"it's an amasanga in the flesh\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 96683,
+      "end_time_ms": 98242,
+      "num_slots": 1,
+      "text": "chiga ñukaga rikusha arani",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then I was looking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 98281,
+      "end_time_ms": 98953,
+      "num_slots": 1,
+      "text": "san!",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 99186,
+      "end_time_ms": 100345,
+      "num_slots": 1,
+      "text": "ruyata kuyuchin",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it moved the tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 100628,
+      "end_time_ms": 101279,
+      "num_slots": 1,
+      "text": "san!",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 101384,
+      "end_time_ms": 102666,
+      "num_slots": 1,
+      "text": "ruyata kuchi- kuyuchin",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it moved the tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 102759,
+      "end_time_ms": 104676,
+      "num_slots": 1,
+      "text": "mana rikunata ushani ñuka",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "I was not able to see"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 105121,
+      "end_time_ms": 105496,
+      "num_slots": 1,
+      "text": "chi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 105834,
+      "end_time_ms": 106363,
+      "num_slots": 1,
+      "text": "kuti",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "again"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 106690,
+      "end_time_ms": 107788,
+      "num_slots": 1,
+      "text": "san! kuyuchin",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "san! it moved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 108265,
+      "end_time_ms": 109269,
+      "num_slots": 1,
+      "text": "rikukpiga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "looking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 109719,
+      "end_time_ms": 112687,
+      "num_slots": 1,
+      "text": "(?) (?) ilukuta churarishkata rikuk mangi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "(?) you look like you're dressed like an owl (?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 112930,
+      "end_time_ms": 113457,
+      "num_slots": 1,
+      "text": "kanga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 113776,
+      "end_time_ms": 116803,
+      "num_slots": 1,
+      "text": "chasna ashallata shalinlla balunga ",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "just being a striped ball like this shalin! "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 117401,
+      "end_time_ms": 118824,
+      "num_slots": 1,
+      "text": "kiruga liu!",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "black teeth!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 119328,
+      "end_time_ms": 122144,
+      "num_slots": 1,
+      "text": "shinki kiru mara mana ñukanchi shina chara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "shiny black teeth they were, not like us, it was"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 122309,
+      "end_time_ms": 124062,
+      "num_slots": 1,
+      "text": "asisha rikuwara ñuka",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "laughing it looked at me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 124600,
+      "end_time_ms": 128292,
+      "num_slots": 1,
+      "text": "rikusha asisha rikusha (?) kasnan kallawara ñukata shamun (?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "looking and laughing it started to come towards me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 128552,
+      "end_time_ms": 132872,
+      "num_slots": 1,
+      "text": "\"yaya!\" pirukuchari kaya(?) \"yaya!\" pirukachari kayawan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 133064,
+      "end_time_ms": 134254,
+      "num_slots": 1,
+      "text": "chun uyashallay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it sounded chun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 134894,
+      "end_time_ms": 136808,
+      "num_slots": 1,
+      "text": "kushillumi kallpanga rawnmi ara(?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "the monkeys began to run"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 136808,
+      "end_time_ms": 139268,
+      "num_slots": 1,
+      "text": "\"imaway yaya kaytami shamun\" nirani",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"why is coming here father?\" I said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 139482,
+      "end_time_ms": 141052,
+      "num_slots": 1,
+      "text": "ñuka yaya niwarami",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father said to me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 141444,
+      "end_time_ms": 144133,
+      "num_slots": 1,
+      "text": "\"ñukata chun (?) ushushi\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 144190,
+      "end_time_ms": 145663,
+      "num_slots": 1,
+      "text": "\"ñawi mala rikun\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 145977,
+      "end_time_ms": 147227,
+      "num_slots": 1,
+      "text": "niwarami ñuka",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "he said to me / he said \"me\" (?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 147447,
+      "end_time_ms": 152170,
+      "num_slots": 1,
+      "text": "ña chiga riki ñuka partitaga (?) chi payga shamuuuurami ñukay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then it came towards me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 152743,
+      "end_time_ms": 153729,
+      "num_slots": 1,
+      "text": "chimi yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then my father"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 153863,
+      "end_time_ms": 156030,
+      "num_slots": 1,
+      "text": "yaya tyam voltiarisha alli rikusha",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father jumped around \"tyam!\" to get a good look(?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 156265,
+      "end_time_ms": 159967,
+      "num_slots": 1,
+      "text": "\"chuuuwoiiiiii\" nira ñuka yaya pumata shina",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"chunwoiiiiii\" said my father like a jaguar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 160477,
+      "end_time_ms": 163214,
+      "num_slots": 1,
+      "text": "chiga wallan taras illarami rikwi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S2",
+      "tier": "hands",
+      "start_time_ms": 161519,
+      "end_time_ms": 163098,
+      "num_slots": 1,
+      "text": "twirl",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 163511,
+      "end_time_ms": 166496,
+      "num_slots": 1,
+      "text": "kuti shu partima huhihuhihuhihuhihuhihuhi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then from somewhere else: huhihuhihuhihuhihuhihuhi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 166795,
+      "end_time_ms": 167456,
+      "num_slots": 1,
+      "text": "silbara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it whistled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 167724,
+      "end_time_ms": 168494,
+      "num_slots": 1,
+      "text": "chima sakin",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it stops over there"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 168810,
+      "end_time_ms": 169771,
+      "num_slots": 1,
+      "text": "kay partima",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "in this spot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 170081,
+      "end_time_ms": 171835,
+      "num_slots": 1,
+      "text": "huhihuhihuhihuhihuhihuhihuhihuhi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "huhihuhihuhihuhihuhihuhihuhihuhi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 172323,
+      "end_time_ms": 172827,
+      "num_slots": 1,
+      "text": "huhiii",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "huhiii"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 173848,
+      "end_time_ms": 174708,
+      "num_slots": 1,
+      "text": "silbara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it whistled"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 175299,
+      "end_time_ms": 176339,
+      "num_slots": 1,
+      "text": "\"mana ushushi\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"no daughter\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 176715,
+      "end_time_ms": 178212,
+      "num_slots": 1,
+      "text": "\"kayga amasanga man\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"this is a amasanga\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 179021,
+      "end_time_ms": 180124,
+      "num_slots": 1,
+      "text": "ha! (?)kuñuwara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "ha!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 180124,
+      "end_time_ms": 182185,
+      "num_slots": 1,
+      "text": "yaya kimsa kushilluta wañuchira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father killed three kushillu monkeys"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 182580,
+      "end_time_ms": 184254,
+      "num_slots": 1,
+      "text": "\"haku kunan ushushi\" niwara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"let's go right now daugther\" he said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 184254,
+      "end_time_ms": 186645,
+      "num_slots": 1,
+      "text": "\"ñawpangi\" nisha yaya ñawpa chapan(?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"hurry up\" my father was saying (?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 187143,
+      "end_time_ms": 187586,
+      "num_slots": 1,
+      "text": "taras",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "crunch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 188153,
+      "end_time_ms": 188597,
+      "num_slots": 1,
+      "text": "taras",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "crunch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 189231,
+      "end_time_ms": 189749,
+      "num_slots": 1,
+      "text": "taras",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 190167,
+      "end_time_ms": 192059,
+      "num_slots": 1,
+      "text": "taras apanakwi tupuranchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 192503,
+      "end_time_ms": 193743,
+      "num_slots": 1,
+      "text": "yaya ñuka yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "father, my father"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 194083,
+      "end_time_ms": 194616,
+      "num_slots": 1,
+      "text": "kaskim-",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 194932,
+      "end_time_ms": 197596,
+      "num_slots": 1,
+      "text": "sachayga pullu pullu urmag man ramaguna",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "in the forest, on the fallen branches (?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 197882,
+      "end_time_ms": 198750,
+      "num_slots": 1,
+      "text": "apikga(?) cha!",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 199186,
+      "end_time_ms": 201672,
+      "num_slots": 1,
+      "text": "y chawpimi tuksiran ñuka yaya ",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "and right in the middle he struck, my father"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 202961,
+      "end_time_ms": 204133,
+      "num_slots": 1,
+      "text": "tuksisha riranchi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we went striking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 204660,
+      "end_time_ms": 205072,
+      "num_slots": 1,
+      "text": "rij",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 205766,
+      "end_time_ms": 206455,
+      "num_slots": 1,
+      "text": "",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 206752,
+      "end_time_ms": 207691,
+      "num_slots": 1,
+      "text": "yaku wawa(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 208102,
+      "end_time_ms": 211009,
+      "num_slots": 1,
+      "text": "bugllu nishkay yaku(?) ñukanchi chimbanay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 211256,
+      "end_time_ms": 212669,
+      "num_slots": 1,
+      "text": "chaybimi ichurira pay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "over there he fell(?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 213537,
+      "end_time_ms": 220337,
+      "num_slots": 1,
+      "text": "ichurisha \"aaaaaaaaaaaayyyyyyyyyyyyyyyeeeeeeeeee\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "falling \"ahhhhhhhhhhhhhh\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 220337,
+      "end_time_ms": 223744,
+      "num_slots": 1,
+      "text": "mayta mayta mayta samaybas mana pitirichu(?) kapaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "where? where? where "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 224414,
+      "end_time_ms": 227805,
+      "num_slots": 1,
+      "text": "chay rikwi ingar(?)u man nirani niwarami yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 228448,
+      "end_time_ms": 230828,
+      "num_slots": 1,
+      "text": "chasha pay kaparishka rikukpiga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "like that he yelled while looking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 231183,
+      "end_time_ms": 234116,
+      "num_slots": 1,
+      "text": "mashti kasnamanda wag wag wag wag wag ",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then, like that, bam bam bam bam bam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 234265,
+      "end_time_ms": 235859,
+      "num_slots": 1,
+      "text": "wag wagmi kallpamuɾa",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "bam-bam it ran towards us(?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 236465,
+      "end_time_ms": 240185,
+      "num_slots": 1,
+      "text": "\"yaya!\" nirani \"pita kallpamurik (?)\" nirani ",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"father!\" I said \"who is that running towards us?\" I said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 240649,
+      "end_time_ms": 244668,
+      "num_slots": 1,
+      "text": "ña sabiru riun yayaga aparishkami shamun kushillu aychata",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "(?) my fathering knowing (what is was) came curring carrying the kushillu monkeys"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 245175,
+      "end_time_ms": 246078,
+      "num_slots": 1,
+      "text": "chiga rikukpi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then, looking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 246317,
+      "end_time_ms": 247400,
+      "num_slots": 1,
+      "text": "warmi mara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "it was a woman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 247660,
+      "end_time_ms": 248423,
+      "num_slots": 1,
+      "text": "warmi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "woman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 248626,
+      "end_time_ms": 250029,
+      "num_slots": 1,
+      "text": "shinki shina",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "black as charcoal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 250534,
+      "end_time_ms": 254522,
+      "num_slots": 1,
+      "text": "may- pampalina shinki shina kamisa churarishka mara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "wha- she was wearing a skirt and shirt, black as coal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 254894,
+      "end_time_ms": 256461,
+      "num_slots": 1,
+      "text": "chiwas ña llu",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "and it was a shiny black"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 257332,
+      "end_time_ms": 258196,
+      "num_slots": 1,
+      "text": "kiɾuyuk  mara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "tooth haver"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 258417,
+      "end_time_ms": 261530,
+      "num_slots": 1,
+      "text": "\"yaya rikwi pay warmi shamukta pitan(?)\" nirani",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"father look, that woman is coming!\" I said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 262147,
+      "end_time_ms": 263506,
+      "num_slots": 1,
+      "text": "yaya alli rikura",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father, getting a good look"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 264154,
+      "end_time_ms": 264768,
+      "num_slots": 1,
+      "text": "chia nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then said:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 265012,
+      "end_time_ms": 265956,
+      "num_slots": 1,
+      "text": "\"turi\" nirami",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"brother\" it said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 266188,
+      "end_time_ms": 267207,
+      "num_slots": 1,
+      "text": "ñukata kay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"to me this-\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 267869,
+      "end_time_ms": 271131,
+      "num_slots": 1,
+      "text": "ima (?) chapan ima muyu (?) mikuna muyu",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 271754,
+      "end_time_ms": 274204,
+      "num_slots": 1,
+      "text": "\"pasu muyuta pallasha ukuy\" nira ñuka-",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"I'm going to get these pasu fruits from inside (this tree)\" it said to my-"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 274455,
+      "end_time_ms": 275645,
+      "num_slots": 1,
+      "text": "ñuka yayata",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "to my father"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 275932,
+      "end_time_ms": 277305,
+      "num_slots": 1,
+      "text": "pasuta pallasha ukuy",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "harvesting those pasu fruits from inside the tree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 277573,
+      "end_time_ms": 279326,
+      "num_slots": 1,
+      "text": " \"turi rikuk shamwi cham\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"come and look brother they are cham!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 279836,
+      "end_time_ms": 281480,
+      "num_slots": 1,
+      "text": "\"aparishkami shayawn\" nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"all over the tree\" she said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 281823,
+      "end_time_ms": 285243,
+      "num_slots": 1,
+      "text": "yayaga kasna manzharira \"kunan ñukanchitaga\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father was afraid, \"now will it-\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 285649,
+      "end_time_ms": 289246,
+      "num_slots": 1,
+      "text": "\"wañuchi tukushun o apay(?) tukushun\" niwara yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"kills us or take us?\" said my father"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 289857,
+      "end_time_ms": 290966,
+      "num_slots": 1,
+      "text": "chiga chasna nisha",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "then saying like that"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 291316,
+      "end_time_ms": 292270,
+      "num_slots": 1,
+      "text": "\"mana pani\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"no sister\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 292579,
+      "end_time_ms": 294592,
+      "num_slots": 1,
+      "text": "\"riunimi chish- chishawnimi(?)\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"I'm going (?)\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 295150,
+      "end_time_ms": 295840,
+      "num_slots": 1,
+      "text": "\"ñukaga\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 296754,
+      "end_time_ms": 301292,
+      "num_slots": 1,
+      "text": "\"kayami shamusha pallandaka(?) ñukas munanimi mikunata\" nira yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"yesterday I came harvesting and I really like this food\" said my father (?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 301516,
+      "end_time_ms": 304990,
+      "num_slots": 1,
+      "text": "kasna kwinta (?) runami tiyan",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 305345,
+      "end_time_ms": 306227,
+      "num_slots": 1,
+      "text": "sachay(?)ga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "in the forest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 306591,
+      "end_time_ms": 307852,
+      "num_slots": 1,
+      "text": "kari warmi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 308376,
+      "end_time_ms": 308961,
+      "num_slots": 1,
+      "text": "chiga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 309941,
+      "end_time_ms": 310710,
+      "num_slots": 1,
+      "text": "chasa nikpi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 310965,
+      "end_time_ms": 314104,
+      "num_slots": 1,
+      "text": "\"imawa turi\" nira pallasha kuway(?) ñukata",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 314852,
+      "end_time_ms": 319868,
+      "num_slots": 1,
+      "text": "ñukaga mikusha mikunata mashkasha (?) kasa purina(?) kaybi tupak shamuni ",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 320210,
+      "end_time_ms": 322027,
+      "num_slots": 1,
+      "text": "pa- mashti pasu muyuta ña",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "the um, the pasu fruit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 322411,
+      "end_time_ms": 324217,
+      "num_slots": 1,
+      "text": "\"ñukata riksiwangichu turi\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"do you recognize me brother?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 324376,
+      "end_time_ms": 324738,
+      "num_slots": 1,
+      "text": "nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "she said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 325507,
+      "end_time_ms": 327537,
+      "num_slots": 1,
+      "text": "\"mana (?) ima shinata(?) kan(?)ta\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"no (?) how (?)\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 327639,
+      "end_time_ms": 328872,
+      "num_slots": 1,
+      "text": "\"sachay (?)taga\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"in the forest (?)\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 329191,
+      "end_time_ms": 330428,
+      "num_slots": 1,
+      "text": "\"riksishkangichi\" nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"you all reconigzed me(?)\" she said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 330884,
+      "end_time_ms": 332097,
+      "num_slots": 1,
+      "text": "ñukata maña(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 332307,
+      "end_time_ms": 334043,
+      "num_slots": 1,
+      "text": "\"pasu supay warmiga\" nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"pasu fruit spirit woman\" (?) said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 334612,
+      "end_time_ms": 337702,
+      "num_slots": 1,
+      "text": "uwi kay mundota win purig man(?) nira (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 337873,
+      "end_time_ms": 341112,
+      "num_slots": 1,
+      "text": "ña kasna yaya(?) kwintanaku (?) rikwi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 341398,
+      "end_time_ms": 341943,
+      "num_slots": 1,
+      "text": "chiga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "so"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 342242,
+      "end_time_ms": 344777,
+      "num_slots": 1,
+      "text": "yaya mana rirachu pallangawa",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father would not go and gather (the fruit)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 345003,
+      "end_time_ms": 346764,
+      "num_slots": 1,
+      "text": "\"shuk pasu shamun ushushi\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"one pasu fruit comes daughter\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 346880,
+      "end_time_ms": 348802,
+      "num_slots": 1,
+      "text": "\"siiinzhita(?) mana pani\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"strongly (?) no sister\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 349166,
+      "end_time_ms": 349858,
+      "num_slots": 1,
+      "text": "\"sakiway\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"stay here\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 350146,
+      "end_time_ms": 351125,
+      "num_slots": 1,
+      "text": "\"riii kambas\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"and you go\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 351629,
+      "end_time_ms": 355019,
+      "num_slots": 1,
+      "text": "\"maybas pallachingi riunimi chi shayawnimi\" nira yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "(?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 356185,
+      "end_time_ms": 358464,
+      "num_slots": 1,
+      "text": "riranchi riranchi riranchi riranchi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we went, we went, we went, we went"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 358846,
+      "end_time_ms": 362334,
+      "num_slots": 1,
+      "text": "yaku waway paktaranchi mashti Lliu nishkay yakuy",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we arrived at the stream, it was called Lliu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 362594,
+      "end_time_ms": 363999,
+      "num_slots": 1,
+      "text": "paktak rikukpi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 364172,
+      "end_time_ms": 367271,
+      "num_slots": 1,
+      "text": "timpumi chimbay shayawshkara riki arkakta",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 368342,
+      "end_time_ms": 369120,
+      "num_slots": 1,
+      "text": "chi warmi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "that woman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 369483,
+      "end_time_ms": 374851,
+      "num_slots": 1,
+      "text": "yayatashi ayak(?)tupisha rikukpiga ñuka yayatashi munag ashka chi warmiga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 375596,
+      "end_time_ms": 376534,
+      "num_slots": 1,
+      "text": "shayawshkara",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "was standing there"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 376911,
+      "end_time_ms": 377899,
+      "num_slots": 1,
+      "text": "shayawkpi nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "standing there, then my father said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 378196,
+      "end_time_ms": 380861,
+      "num_slots": 1,
+      "text": "\"pani\" nira \"ama ñukata killachiwaychu\" nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"sister\" he said \"don't bother me\" he said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 381265,
+      "end_time_ms": 385205,
+      "num_slots": 1,
+      "text": "\"ñukaga pukunanmi ñawii shitashkangi\" nira virutiwan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 385629,
+      "end_time_ms": 386468,
+      "num_slots": 1,
+      "text": "\"imawa turi\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"why brother?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 387184,
+      "end_time_ms": 389163,
+      "num_slots": 1,
+      "text": "ñukawas kan shinalla(?) ñawiwan(?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 389387,
+      "end_time_ms": 391737,
+      "num_slots": 1,
+      "text": "rikusha purinatami munaymi(?) nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 393114,
+      "end_time_ms": 397978,
+      "num_slots": 1,
+      "text": "riranchi riranchi riranchi riranchi ña chaybimi churira yaya chasna nikpi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 398326,
+      "end_time_ms": 399712,
+      "num_slots": 1,
+      "text": "ña chaybi chaririray(?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 400417,
+      "end_time_ms": 401353,
+      "num_slots": 1,
+      "text": "kuti uyakpi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 401625,
+      "end_time_ms": 407421,
+      "num_slots": 1,
+      "text": "kikin ansallay aaaaaayyyyyyyyyyyyyy mayta charin(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 407598,
+      "end_time_ms": 409912,
+      "num_slots": 1,
+      "text": "cha amasanga kapa(?)sha shamu(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 411028,
+      "end_time_ms": 413384,
+      "num_slots": 1,
+      "text": "riranchi riranchi riranchi mashti",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 413807,
+      "end_time_ms": 415453,
+      "num_slots": 1,
+      "text": "atun yakullay paktaranchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 415751,
+      "end_time_ms": 417397,
+      "num_slots": 1,
+      "text": "(?)manda (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 417397,
+      "end_time_ms": 419474,
+      "num_slots": 1,
+      "text": "\"ña ushushi kunan kayman ña pasa-(?)\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 419474,
+      "end_time_ms": 422637,
+      "num_slots": 1,
+      "text": "\"paktanchi kayma llakta (?) mana shamungachu\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 423132,
+      "end_time_ms": 423993,
+      "num_slots": 1,
+      "text": "yaya nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 424484,
+      "end_time_ms": 425923,
+      "num_slots": 1,
+      "text": "chimi ñuka yayaga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 426428,
+      "end_time_ms": 427287,
+      "num_slots": 1,
+      "text": "tawaputa(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 428179,
+      "end_time_ms": 430131,
+      "num_slots": 1,
+      "text": "siempre (?) bolsai",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 430850,
+      "end_time_ms": 434040,
+      "num_slots": 1,
+      "text": "amurisha pak upuku(?) mirara(?) ñuka yayawas",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 434665,
+      "end_time_ms": 435517,
+      "num_slots": 1,
+      "text": "amsagay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 436027,
+      "end_time_ms": 437841,
+      "num_slots": 1,
+      "text": "yachak shina mag ara ñuka yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "my father was like a shaman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 438881,
+      "end_time_ms": 441446,
+      "num_slots": 1,
+      "text": "pukusha punanga mana \"shamungachu (?)\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 442053,
+      "end_time_ms": 446255,
+      "num_slots": 1,
+      "text": "\"ama manzharichu alimanda ringi\" sambayashami wañurani ñukaga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "\"don't be afraid, go slowly\" becoming tired I was dying"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 446423,
+      "end_time_ms": 447035,
+      "num_slots": 1,
+      "text": "y ña",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 447271,
+      "end_time_ms": 450190,
+      "num_slots": 1,
+      "text": "yapata sambayara yaya ali sacha ri(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 450372,
+      "end_time_ms": 451463,
+      "num_slots": 1,
+      "text": "ali sacha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 452611,
+      "end_time_ms": 454240,
+      "num_slots": 1,
+      "text": "ñuka pugri churashka(?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 454485,
+      "end_time_ms": 455217,
+      "num_slots": 1,
+      "text": "seis años",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "six years"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 456776,
+      "end_time_ms": 459757,
+      "num_slots": 1,
+      "text": "ichilla chi rayguta yaya aparishaguna(?) apawaray(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 461940,
+      "end_time_ms": 464061,
+      "num_slots": 1,
+      "text": "riranchi riranchi riranchi ña",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we went, we went, we went, then"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 464393,
+      "end_time_ms": 466226,
+      "num_slots": 1,
+      "text": "mama chagray paktaranchi",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we arrived at my mother's agricultural field"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 466530,
+      "end_time_ms": 467669,
+      "num_slots": 1,
+      "text": "rikukpi mama",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "and upon looking (realized) that my mother"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 468084,
+      "end_time_ms": 469752,
+      "num_slots": 1,
+      "text": "kiwata allmanga shamukga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "having come to weed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 470017,
+      "end_time_ms": 470678,
+      "num_slots": 1,
+      "text": "kushnin",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "(all that was left was the smoke)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 471035,
+      "end_time_ms": 472649,
+      "num_slots": 1,
+      "text": "ña ri pashashka mara mama",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "she had already gone, my mother had"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 473505,
+      "end_time_ms": 475895,
+      "num_slots": 1,
+      "text": "paktariranchi paktariranchi paktashkay",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we arrived, we arrived, upon arriving"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 476374,
+      "end_time_ms": 478629,
+      "num_slots": 1,
+      "text": "(?)misiu nishkachin(?) balan wañuna",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 479004,
+      "end_time_ms": 479284,
+      "num_slots": 1,
+      "text": "ya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 479759,
+      "end_time_ms": 481810,
+      "num_slots": 1,
+      "text": "chagra ukupi(?) peruanomanda shamushka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 481950,
+      "end_time_ms": 483753,
+      "num_slots": 1,
+      "text": "ñuka mikyata apisha tiaw",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 484200,
+      "end_time_ms": 484648,
+      "num_slots": 1,
+      "text": "chi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 485041,
+      "end_time_ms": 485435,
+      "num_slots": 1,
+      "text": "wa-",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 485685,
+      "end_time_ms": 487101,
+      "num_slots": 1,
+      "text": "wap(?) ñuka yaya rira(?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 487443,
+      "end_time_ms": 488248,
+      "num_slots": 1,
+      "text": "\"ima ima\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 488534,
+      "end_time_ms": 489559,
+      "num_slots": 1,
+      "text": "\"puuunzhawas\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 490080,
+      "end_time_ms": 492139,
+      "num_slots": 1,
+      "text": "\"mana killachiwak chara ñukata\"",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 492865,
+      "end_time_ms": 494207,
+      "num_slots": 1,
+      "text": "nirami ñuka yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "said my father"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 494483,
+      "end_time_ms": 495639,
+      "num_slots": 1,
+      "text": "mana killachiwak",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 496149,
+      "end_time_ms": 499800,
+      "num_slots": 1,
+      "text": "\"amasangatas rikunchimi\" nira chiga manarag(?) imarachu nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 499859,
+      "end_time_ms": 501392,
+      "num_slots": 1,
+      "text": "silbanallata silbara",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 501830,
+      "end_time_ms": 507078,
+      "num_slots": 1,
+      "text": "\"ña rikurikta rikurikta yay- rikurikta kadzami wawata apapa(?) ñuka wawata\" nira ",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 508242,
+      "end_time_ms": 509902,
+      "num_slots": 1,
+      "text": "shamushkay warmiga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 510785,
+      "end_time_ms": 512944,
+      "num_slots": 1,
+      "text": "mana kallatachu chushak timenta(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 513217,
+      "end_time_ms": 514707,
+      "num_slots": 1,
+      "text": "kallpasha purig anchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 514904,
+      "end_time_ms": 516604,
+      "num_slots": 1,
+      "text": "chi kiwntami kallpamun(?) ña",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 516890,
+      "end_time_ms": 519490,
+      "num_slots": 1,
+      "text": "rikukpi awaymi mara shinki shina",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 519670,
+      "end_time_ms": 522226,
+      "num_slots": 1,
+      "text": "pampalina shinki shina kamisa churarishka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 522604,
+      "end_time_ms": 523947,
+      "num_slots": 1,
+      "text": "ñ- kiruga liu ",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 524471,
+      "end_time_ms": 526176,
+      "num_slots": 1,
+      "text": "shinki kiruyuk mara nira(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 526862,
+      "end_time_ms": 527531,
+      "num_slots": 1,
+      "text": "chiga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 527869,
+      "end_time_ms": 528892,
+      "num_slots": 1,
+      "text": "turi ñukaga",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 529169,
+      "end_time_ms": 530579,
+      "num_slots": 1,
+      "text": "pasu supay warmi mani",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 530974,
+      "end_time_ms": 535232,
+      "num_slots": 1,
+      "text": "pasuga kaybimi shayawn ukta pallapak shamuy mikunga (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 535501,
+      "end_time_ms": 537018,
+      "num_slots": 1,
+      "text": "mana pallasha purangichu(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 537252,
+      "end_time_ms": 538751,
+      "num_slots": 1,
+      "text": "imanashata kasna",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 539143,
+      "end_time_ms": 541141,
+      "num_slots": 1,
+      "text": "supayguna llukshi(?) yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 541524,
+      "end_time_ms": 543742,
+      "num_slots": 1,
+      "text": "mana pies kasna rawshka chaymi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 544012,
+      "end_time_ms": 548505,
+      "num_slots": 1,
+      "text": "\"kaaanmi kasna rawangi\" nira \"kan kan kan kan mana piwas kan\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 550579,
+      "end_time_ms": 552730,
+      "num_slots": 1,
+      "text": "inda yaya piñara chi borohota",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 552881,
+      "end_time_ms": 553299,
+      "num_slots": 1,
+      "text": "inda",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 554269,
+      "end_time_ms": 555056,
+      "num_slots": 1,
+      "text": "mana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 555366,
+      "end_time_ms": 556921,
+      "num_slots": 1,
+      "text": "mana limpiwi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 557470,
+      "end_time_ms": 560240,
+      "num_slots": 1,
+      "text": "limpiwi chasna imisionda piñagri(?)",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 560413,
+      "end_time_ms": 561142,
+      "num_slots": 1,
+      "text": "yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 561442,
+      "end_time_ms": 562910,
+      "num_slots": 1,
+      "text": "\"kanmi kasarawngi\" nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 563101,
+      "end_time_ms": 565444,
+      "num_slots": 1,
+      "text": "ñuka wawata kadzami chingachi(?) nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 565956,
+      "end_time_ms": 569200,
+      "num_slots": 1,
+      "text": "(?) nira chun tiyashka washa yangami nin",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 569556,
+      "end_time_ms": 573114,
+      "num_slots": 1,
+      "text": "pugllanmi nishka chari boroho illan urku kasaray tukunga(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 573456,
+      "end_time_ms": 576095,
+      "num_slots": 1,
+      "text": "\"mana ñukaga chasna(?)ashka wawki\" nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 576558,
+      "end_time_ms": 578496,
+      "num_slots": 1,
+      "text": "\"mana kan mangi kan kan kan\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 580159,
+      "end_time_ms": 581889,
+      "num_slots": 1,
+      "text": "(?) mara",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 582638,
+      "end_time_ms": 584200,
+      "num_slots": 1,
+      "text": "ah ow Venturaba(?) yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 584385,
+      "end_time_ms": 589057,
+      "num_slots": 1,
+      "text": "uuuuuuubu(?) shitaga (?)sata balay wañushkaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 590265,
+      "end_time_ms": 594742,
+      "num_slots": 1,
+      "text": "mundushitaga ay(?) amarun sachamanda munditi shina",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 595092,
+      "end_time_ms": 596204,
+      "num_slots": 1,
+      "text": "pawshi shina",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 596933,
+      "end_time_ms": 599530,
+      "num_slots": 1,
+      "text": "h",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 599938,
+      "end_time_ms": 601946,
+      "num_slots": 1,
+      "text": "kasna pambaymi kantara(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 602428,
+      "end_time_ms": 603791,
+      "num_slots": 1,
+      "text": "chimanda chay kantarin(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 604154,
+      "end_time_ms": 605925,
+      "num_slots": 1,
+      "text": "chimanda washama kanta(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 606673,
+      "end_time_ms": 609594,
+      "num_slots": 1,
+      "text": "ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku ku",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 609855,
+      "end_time_ms": 611178,
+      "num_slots": 1,
+      "text": "rikunchi illan",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we look, it's not there"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 611282,
+      "end_time_ms": 615483,
+      "num_slots": 1,
+      "text": "rikunchi illan yaya garutigunawn(?) tuksira ñuka yaya",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "we look, it's not there"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 616100,
+      "end_time_ms": 617974,
+      "num_slots": 1,
+      "text": "ña chasna rawshkay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 618213,
+      "end_time_ms": 619305,
+      "num_slots": 1,
+      "text": "kuti rishkayga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 619445,
+      "end_time_ms": 619646,
+      "num_slots": 1,
+      "text": "mm",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 619966,
+      "end_time_ms": 621477,
+      "num_slots": 1,
+      "text": "pawshi tukuwara hmm",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 622288,
+      "end_time_ms": 623632,
+      "num_slots": 1,
+      "text": "hmm hmm hmmmmm",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 623695,
+      "end_time_ms": 626031,
+      "num_slots": 1,
+      "text": "imamanda pawshita shamunga llakta sachay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 626415,
+      "end_time_ms": 628725,
+      "num_slots": 1,
+      "text": "karu sachamanmi pawshiga tiyan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 630410,
+      "end_time_ms": 632052,
+      "num_slots": 1,
+      "text": "turu (?) yaya nira",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 632319,
+      "end_time_ms": 634136,
+      "num_slots": 1,
+      "text": "kaybi ri (?) waksham(?) uya(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 634410,
+      "end_time_ms": 635207,
+      "num_slots": 1,
+      "text": "pukunawan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 635974,
+      "end_time_ms": 637295,
+      "num_slots": 1,
+      "text": "pukuna sapi(?) yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 637449,
+      "end_time_ms": 639488,
+      "num_slots": 1,
+      "text": "tamak ashkangi ima (?) (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 640016,
+      "end_time_ms": 642792,
+      "num_slots": 1,
+      "text": "ñukata killa (?) (?) mana piwas",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 643124,
+      "end_time_ms": 645439,
+      "num_slots": 1,
+      "text": "killachushka(?) chan(?) ñuka nisha yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 646180,
+      "end_time_ms": 647564,
+      "num_slots": 1,
+      "text": "yamana(?) purig ribak",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 647904,
+      "end_time_ms": 648507,
+      "num_slots": 1,
+      "text": "chaymi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 648747,
+      "end_time_ms": 649889,
+      "num_slots": 1,
+      "text": "ñawpakpi chaymi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 650228,
+      "end_time_ms": 650849,
+      "num_slots": 1,
+      "text": "chaymi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 651120,
+      "end_time_ms": 651693,
+      "num_slots": 1,
+      "text": "chaymi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 651803,
+      "end_time_ms": 652843,
+      "num_slots": 1,
+      "text": "rikukpi illan",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "hands",
+      "start_time_ms": 652416,
+      "end_time_ms": 652981,
+      "num_slots": 1,
+      "text": "twirl",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 653744,
+      "end_time_ms": 656188,
+      "num_slots": 1,
+      "text": "pawshis pawshi tukun pawshi supay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 657175,
+      "end_time_ms": 658686,
+      "num_slots": 1,
+      "text": "ña chasara piña mana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 658891,
+      "end_time_ms": 659782,
+      "num_slots": 1,
+      "text": "ri (?) akpi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 660516,
+      "end_time_ms": 662072,
+      "num_slots": 1,
+      "text": "chaymandalla tigramuranchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 662518,
+      "end_time_ms": 666243,
+      "num_slots": 1,
+      "text": "tigramushkay mama ñuka mama awshka mara pamba chagray",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 666786,
+      "end_time_ms": 669161,
+      "num_slots": 1,
+      "text": "kasna rakpimi shamun (?) yaya nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 669737,
+      "end_time_ms": 670461,
+      "num_slots": 1,
+      "text": "chinday",
+      "dependents": [
+        {
+          "tier": "Phrase Free Translation",
+          "values": [
+            {
+              "start_slot": 0,
+              "end_slot": 1,
+              "value": "by the fence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 670948,
+      "end_time_ms": 671461,
+      "num_slots": 1,
+      "text": "hmmm",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 672221,
+      "end_time_ms": 674206,
+      "num_slots": 1,
+      "text": "hm hm hmmmmmmmm",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 674620,
+      "end_time_ms": 674986,
+      "num_slots": 1,
+      "text": "tuk",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 675925,
+      "end_time_ms": 678716,
+      "num_slots": 1,
+      "text": "pawshi shinata chagra chinday kantak shamura(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 678955,
+      "end_time_ms": 679302,
+      "num_slots": 1,
+      "text": "ha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 680919,
+      "end_time_ms": 683463,
+      "num_slots": 1,
+      "text": "mana rikunata mana sharan(?)chichu chita",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "hands",
+      "start_time_ms": 681678,
+      "end_time_ms": 682379,
+      "num_slots": 1,
+      "text": "twirl",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 684479,
+      "end_time_ms": 686863,
+      "num_slots": 1,
+      "text": "yanga uyaranchi illan(?) (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S2",
+      "tier": "hands",
+      "start_time_ms": 685699,
+      "end_time_ms": 686327,
+      "num_slots": 1,
+      "text": "twirl",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 687267,
+      "end_time_ms": 690262,
+      "num_slots": 1,
+      "text": "chiga haku nishami mama lomo pelashkata",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 690262,
+      "end_time_ms": 693986,
+      "num_slots": 1,
+      "text": "ashangay ñukanchiga lomota apan(?) (?)shkara ñuka mama",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 694436,
+      "end_time_ms": 695746,
+      "num_slots": 1,
+      "text": "karan (?) undachika",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 696453,
+      "end_time_ms": 698246,
+      "num_slots": 1,
+      "text": "yaya hakun(?)gichi ñukaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 698403,
+      "end_time_ms": 700034,
+      "num_slots": 1,
+      "text": "washama shamusha nisha washa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 700744,
+      "end_time_ms": 702569,
+      "num_slots": 1,
+      "text": "yaya yakuy paktagrianchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 702815,
+      "end_time_ms": 703719,
+      "num_slots": 1,
+      "text": "paktagrishkay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 703840,
+      "end_time_ms": 705741,
+      "num_slots": 1,
+      "text": "ma- mashti wañushka mikya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 705886,
+      "end_time_ms": 708751,
+      "num_slots": 1,
+      "text": "ñuka mikyawanmi shamushkara mikya Ilumina(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 709520,
+      "end_time_ms": 709971,
+      "num_slots": 1,
+      "text": "chiga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 710390,
+      "end_time_ms": 713611,
+      "num_slots": 1,
+      "text": "yapayguna kanoay ñukachi ñukanchi rishka(?) kanoay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 714043,
+      "end_time_ms": 715124,
+      "num_slots": 1,
+      "text": "shamuranchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 715618,
+      "end_time_ms": 717886,
+      "num_slots": 1,
+      "text": "yaya anzelo (?) apamushaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 718162,
+      "end_time_ms": 719708,
+      "num_slots": 1,
+      "text": "anzelosha rishaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 719890,
+      "end_time_ms": 721638,
+      "num_slots": 1,
+      "text": "imata shimi kungarawnchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 722005,
+      "end_time_ms": 725347,
+      "num_slots": 1,
+      "text": "piiita kasna (?) nisha yaya piñag ara(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 725775,
+      "end_time_ms": 726632,
+      "num_slots": 1,
+      "text": "piñarisha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 727363,
+      "end_time_ms": 728574,
+      "num_slots": 1,
+      "text": "uraymaga tiyawn",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 729095,
+      "end_time_ms": 730813,
+      "num_slots": 1,
+      "text": "chi (?) tiyawn",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 731438,
+      "end_time_ms": 732117,
+      "num_slots": 1,
+      "text": "chimi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 732400,
+      "end_time_ms": 733286,
+      "num_slots": 1,
+      "text": "yayaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 733551,
+      "end_time_ms": 735972,
+      "num_slots": 1,
+      "text": "Euloi- Euloi nishkami tiyag ara",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 736250,
+      "end_time_ms": 737185,
+      "num_slots": 1,
+      "text": "chita wawki",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 737486,
+      "end_time_ms": 740532,
+      "num_slots": 1,
+      "text": "ayak upipak sham(?) ñuka wasii isha(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 741206,
+      "end_time_ms": 743949,
+      "num_slots": 1,
+      "text": "ah ow upikpak sham(?) shamura",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 744059,
+      "end_time_ms": 744910,
+      "num_slots": 1,
+      "text": "chiga chi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 745267,
+      "end_time_ms": 747432,
+      "num_slots": 1,
+      "text": "Euloi nishka shamurami wasimi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 747794,
+      "end_time_ms": 750980,
+      "num_slots": 1,
+      "text": "shamukta ayakta yayawas paywa supina",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 751798,
+      "end_time_ms": 753384,
+      "num_slots": 1,
+      "text": "mana piwas piña(?)machashay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 753631,
+      "end_time_ms": 755007,
+      "num_slots": 1,
+      "text": "wayrachira yayakta",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 755345,
+      "end_time_ms": 757788,
+      "num_slots": 1,
+      "text": "wayrachikpi mana piwas",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 758302,
+      "end_time_ms": 759629,
+      "num_slots": 1,
+      "text": "kasnay tukungichu",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 760509,
+      "end_time_ms": 763103,
+      "num_slots": 1,
+      "text": "pay waway tiyawn nira chi ruku (?) (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 763597,
+      "end_time_ms": 765626,
+      "num_slots": 1,
+      "text": "payga aychata hapisha mikuk ñukaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 765884,
+      "end_time_ms": 767213,
+      "num_slots": 1,
+      "text": "rukuy rukuga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 767371,
+      "end_time_ms": 769450,
+      "num_slots": 1,
+      "text": "\"mana purinata ushani\" nisha\"",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 769714,
+      "end_time_ms": 771021,
+      "num_slots": 1,
+      "text": "chasna rurashka nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 772214,
+      "end_time_ms": 774133,
+      "num_slots": 1,
+      "text": "\"ananaw\" nirami \"wawki\" nira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 774466,
+      "end_time_ms": 776080,
+      "num_slots": 1,
+      "text": "ñukaga wañuchishaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 776198,
+      "end_time_ms": 777298,
+      "num_slots": 1,
+      "text": "munditi akpi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 777538,
+      "end_time_ms": 778610,
+      "num_slots": 1,
+      "text": "karu(?) (?)kpi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 779027,
+      "end_time_ms": 781867,
+      "num_slots": 1,
+      "text": "ima yam(?)api payta shuk wawallas",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 782215,
+      "end_time_ms": 783786,
+      "num_slots": 1,
+      "text": "kushami kumarani ña",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 784057,
+      "end_time_ms": 788395,
+      "num_slots": 1,
+      "text": "paychu kasnara (?) kunan gastawan \"mana karashachu(?)\" nisha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 788809,
+      "end_time_ms": 792687,
+      "num_slots": 1,
+      "text": "yaya anzelo ungachishiga(?) urayta",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 792972,
+      "end_time_ms": 794482,
+      "num_slots": 1,
+      "text": "mana riranchi ñuka",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 794748,
+      "end_time_ms": 795317,
+      "num_slots": 1,
+      "text": "chiga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 795455,
+      "end_time_ms": 798128,
+      "num_slots": 1,
+      "text": "aysashka mara yaya shuk saltakama(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 798417,
+      "end_time_ms": 799137,
+      "num_slots": 1,
+      "text": "ishkay",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 799511,
+      "end_time_ms": 801304,
+      "num_slots": 1,
+      "text": "mashti muta chimanda shu",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 801921,
+      "end_time_ms": 806601,
+      "num_slots": 1,
+      "text": "ma- como al bagrita aysashka yaya mashti mara mijano(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 807039,
+      "end_time_ms": 811198,
+      "num_slots": 1,
+      "text": "chay apamu chayta mamaga piti piti (?)sha yanusha (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 811482,
+      "end_time_ms": 812297,
+      "num_slots": 1,
+      "text": "karash(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 812481,
+      "end_time_ms": 814086,
+      "num_slots": 1,
+      "text": "chiga mana kubrirachu(?) ",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 814271,
+      "end_time_ms": 814835,
+      "num_slots": 1,
+      "text": "chasna",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 815145,
+      "end_time_ms": 817659,
+      "num_slots": 1,
+      "text": "chasna rura borojota mana kubrirachu",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 818909,
+      "end_time_ms": 820228,
+      "num_slots": 1,
+      "text": "mana kubrirachu",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 820376,
+      "end_time_ms": 822203,
+      "num_slots": 1,
+      "text": "ñawpaga ima pita aswallas",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 822510,
+      "end_time_ms": 823552,
+      "num_slots": 1,
+      "text": "payma kumara(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 823690,
+      "end_time_ms": 825346,
+      "num_slots": 1,
+      "text": "kumbirag mara yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 825879,
+      "end_time_ms": 826530,
+      "num_slots": 1,
+      "text": "chasna",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 826846,
+      "end_time_ms": 827470,
+      "num_slots": 1,
+      "text": "kushita",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 829785,
+      "end_time_ms": 832719,
+      "num_slots": 1,
+      "text": "ñuka yaya kumbirg ara imata pamushaga",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 833183,
+      "end_time_ms": 834958,
+      "num_slots": 1,
+      "text": "chi emisionda mikugrig ara",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 835199,
+      "end_time_ms": 836390,
+      "num_slots": 1,
+      "text": "pay mikuchun nisha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 836675,
+      "end_time_ms": 840474,
+      "num_slots": 1,
+      "text": "ayak tupisha wañunaya asha chay siriuk pugri wawki (?) nisha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 840837,
+      "end_time_ms": 841738,
+      "num_slots": 1,
+      "text": "kumbirag ara",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 841991,
+      "end_time_ms": 845370,
+      "num_slots": 1,
+      "text": "mana shunguyu(?) rukutachu (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 846098,
+      "end_time_ms": 847881,
+      "num_slots": 1,
+      "text": "chasay chichishin",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 849269,
+      "end_time_ms": 850716,
+      "num_slots": 1,
+      "text": "chi Ventura yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 851641,
+      "end_time_ms": 852401,
+      "num_slots": 1,
+      "text": "imision",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 853470,
+      "end_time_ms": 855243,
+      "num_slots": 1,
+      "text": "peruano ruku mara peruano",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 855348,
+      "end_time_ms": 858715,
+      "num_slots": 1,
+      "text": "ñuka shina asha peuranomanda yacha (?) (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 859306,
+      "end_time_ms": 859950,
+      "num_slots": 1,
+      "text": "aha",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 861652,
+      "end_time_ms": 865189,
+      "num_slots": 1,
+      "text": "alli shungu man ali shungu payba churi ali shungu",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 865721,
+      "end_time_ms": 866273,
+      "num_slots": 1,
+      "text": "(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 866840,
+      "end_time_ms": 870634,
+      "num_slots": 1,
+      "text": "payba yayaga yapa runata shitan mara",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 871145,
+      "end_time_ms": 871998,
+      "num_slots": 1,
+      "text": "chasnaymi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 872369,
+      "end_time_ms": 874512,
+      "num_slots": 1,
+      "text": "barbas kuta kayandi allag rin",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 875043,
+      "end_time_ms": 876371,
+      "num_slots": 1,
+      "text": "allag risha ayak(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 876467,
+      "end_time_ms": 877415,
+      "num_slots": 1,
+      "text": "lindos(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 877622,
+      "end_time_ms": 880365,
+      "num_slots": 1,
+      "text": "ñukanchi partima ambiganawn(?) rikukta man",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 880873,
+      "end_time_ms": 883366,
+      "num_slots": 1,
+      "text": "chita yaya ambingawami rira",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 883696,
+      "end_time_ms": 886642,
+      "num_slots": 1,
+      "text": "chiga chikwanga chi chi chi chi chi chi chi chi chikwan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 887198,
+      "end_time_ms": 889178,
+      "num_slots": 1,
+      "text": "chi chi chi chi chi chi chi chikwan",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 889591,
+      "end_time_ms": 891957,
+      "num_slots": 1,
+      "text": "ña chikwanga rimangami awra(?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 892411,
+      "end_time_ms": 895830,
+      "num_slots": 1,
+      "text": "chay washalla mara tuh tuh tuh tuh tuh tsik yeeeaaaaa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 895865,
+      "end_time_ms": 897869,
+      "num_slots": 1,
+      "text": "tuh tuh tuh tuh tuh tsik yeeeaaaa",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 897869,
+      "end_time_ms": 899292,
+      "num_slots": 1,
+      "text": "rupayta tamia",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 899836,
+      "end_time_ms": 901027,
+      "num_slots": 1,
+      "text": "imananda",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 901166,
+      "end_time_ms": 903177,
+      "num_slots": 1,
+      "text": "imashi tukungarawnchi nisha nu-",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 903373,
+      "end_time_ms": 905530,
+      "num_slots": 1,
+      "text": "hakwichi mana kasnara (?)kamana",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 906017,
+      "end_time_ms": 910031,
+      "num_slots": 1,
+      "text": "\"hundangachu\" nisha ñuka yaya yachasha haku haku (?)",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 910233,
+      "end_time_ms": 912468,
+      "num_slots": 1,
+      "text": "ñuka mikya ñuka mama yaya",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 912764,
+      "end_time_ms": 914304,
+      "num_slots": 1,
+      "text": "lindosta ambimgarinawn",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 914695,
+      "end_time_ms": 916384,
+      "num_slots": 1,
+      "text": "ñukanchi tiyawranchi",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 916783,
+      "end_time_ms": 918238,
+      "num_slots": 1,
+      "text": "chibi sachamanda cha-",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 923181,
+      "end_time_ms": 925104,
+      "num_slots": 1,
+      "text": "ña chitata kiwntangarawni",
+      "dependents": []
+    },
+    {
+      "speaker": "S1",
+      "tier": "Transcription",
+      "start_time_ms": 926932,
+      "end_time_ms": 927554,
+      "num_slots": 1,
+      "text": "ña ña",
+      "dependents": []
+    }
+  ]
+}
