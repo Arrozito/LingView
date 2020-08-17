@@ -34,6 +34,10 @@
       "hands": {
         "name": "hands",
         "subdivided": false
+      },
+      "JBN": {
+        "name": "JBN",
+        "subdivided": false
       }
     },
     "speaker IDs": {
@@ -44,6 +48,10 @@
       "S2": {
         "language": "qvz",
         "tier": "hands"
+      },
+      "S3": {
+        "language": "qvz",
+        "tier": "JBN"
       }
     }
   }
